@@ -1,0 +1,7 @@
+Write a program for generating a frequency dictionary how individual words in complex text Provide
+Reading source text from a file
+Display information about all words
+Display information about the most frequently occurring
+word
+Write the result to a file
+When developing a program use a map-type dictionary
